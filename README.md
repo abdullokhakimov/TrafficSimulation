@@ -9,11 +9,9 @@ It was developed to apply advanced C++ concepts such as polymorphism, smart poin
 **Real-Time Graphical Interface of Traffic Simulation (Java GUI):**
 ![Traffic Simulation GUI](assets/gui_simulation.jpg)
 
-**Class hierarchy simulation object:**
-![Class hierarchy simulation object](assets/terminal_logs.jpg)
-
-**Exception and behavior classes**
-![Exception and behavior classes](assets/terminal_logs_2.jpg)
+| **Class hierarchy simulation object:** | **Exception and behavior classes:** |
+| :---: | :---: |
+| ![Class hierarchy simulation object](assets/terminal_logs.jpg) | ![Exception and behavior classes](assets/terminal_logs_2.jpg) |
 
 ## Features
 
